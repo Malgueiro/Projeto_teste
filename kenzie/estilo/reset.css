@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #01011c;
+
+}
+a{
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+}
+img{
+    max-width: 100%;
+}
+.pad10-top{
+    padding-top: 10px;
+}
+.pad20-top{
+    padding-top: 20px;
+}
+.pad30-top{
+    padding-top: 30px;
+}
+.pad10-bottom{
+    padding-bottom: 10px;
+}
+.pad20-bottom{
+    padding-bottom: 20px;
+}
+.pad30-bottom{
+    padding-bottom: 30px;
+}
+li{
+    list-style-type: none;
+}

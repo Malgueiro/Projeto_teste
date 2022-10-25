@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.title{
+    font-family: 'Poppins';
+    line-height: 1.2;
+    color: #ffff;
+}
+.title.one{
+    font-size: 90px;
+    font-weight: 700;
+}
+.title.two{
+    font-size:60px;
+    font-weight:700px ;
+}
+.title.threehalf{
+    font-size:28px;
+    font-weight: 700;
+}
+.title.three{
+    font-size: 24px;
+    font-weight: 600;
+}
+.title.four{
+    font-size: 16px;
+    font-weight: 600;
+}
+.title.center{
+    text-align: center;
+}
+.content-box p{
+    font-family: 'Poppins';
+    font-size: 19px ;
+    font-weight: 400;
+    color: #ffff;
+}
+.blue-text{
+    color: #0000FF;
+}
+.lightblue-text{
+    color: #a5a5ff
+}
+.limit{
+    max-width: 650px;
+}
